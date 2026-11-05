@@ -1,0 +1,47 @@
+[
+  {
+    "request": {
+      "user_id": 495,
+      "movie_id": 72998
+    },
+    "predicted_rating": 4.28280960211613,
+    "probability": 0.8461325886536571,
+    "class": 1
+  },
+  {
+    "request": {
+      "user_id": 495,
+      "movie_id": 2762
+    },
+    "predicted_rating": 4.5294084459940755,
+    "probability": 0.9006805009188519,
+    "class": 1
+  },
+  {
+    "request": {
+      "user_id": 495,
+      "movie_id": 4993
+    },
+    "predicted_rating": 4.762066582572828,
+    "probability": 0.9373842062520255,
+    "class": 1
+  },
+  {
+    "request": {
+      "user_id": 495,
+      "movie_id": 89492
+    },
+    "predicted_rating": 4.212386299270921,
+    "probability": 0.8298234889484041,
+    "class": 1
+  },
+  {
+    "request": {
+      "user_id": 495,
+      "movie_id": 2028
+    },
+    "predicted_rating": 4.798652545149243,
+    "probability": 0.941888910968605,
+    "class": 1
+  }
+]
